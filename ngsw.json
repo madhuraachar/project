@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578022128576,
+  "timestamp": 1578022530862,
   "index": "/project/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/project/favicon.ico",
         "/project/index.html",
-        "/project/main-es2015.ccfc54f2da2851473700.js",
-        "/project/main-es5.2b8516192f323383b265.js",
+        "/project/main-es2015.4de989171320f4142ca8.js",
+        "/project/main-es5.fd9a6b47ec2063fa37df.js",
         "/project/polyfills-es2015.27661dfa98f6332c27dc.js",
         "/project/polyfills-es5.7f43b971448d2fb49202.js",
         "/project/runtime-es2015.858f8dd898b75fe86926.js",
@@ -42,10 +42,10 @@
     {
       "name": "product",
       "patterns": [
-        "\\/assets\\/json\\/product_list\\.json"
+        "\\/project\\/assets\\/json\\/product_list\\.json"
       ],
       "strategy": "performance",
-      "maxSize": 1,
+      "maxSize": 5,
       "maxAge": 86400000,
       "timeoutMs": 10000,
       "version": 1
@@ -62,9 +62,9 @@
     "/project/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/project/assets/json/product_list.json": "936e26abedd6d8ae9dcf6f162875eab1cb186b15",
     "/project/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/project/index.html": "7b345bfe6438141e834ff05cf86ef86b8e48900c",
-    "/project/main-es2015.ccfc54f2da2851473700.js": "c06a665b177420a1b00d77c98468dfc5640ec0df",
-    "/project/main-es5.2b8516192f323383b265.js": "ed14688ae541e4dc0336a631f6779c658c988600",
+    "/project/index.html": "70f2c17e5822c38f333f0a85ec2e437d30042472",
+    "/project/main-es2015.4de989171320f4142ca8.js": "fd02e75e5ea0908cfa54c32c6c76fec20e3d533c",
+    "/project/main-es5.fd9a6b47ec2063fa37df.js": "888bb4c183091bd3bd911a08c49b3bd2d66097d3",
     "/project/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
     "/project/polyfills-es5.7f43b971448d2fb49202.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
     "/project/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
